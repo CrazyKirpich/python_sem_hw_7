@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <Last_name>Антонов</Last_name>
+        <Name>Антон</Name>
+        <Phone_number>12312</Phone_number>
+        <Info>вфыв</Info>
+    </contact>
+    <contact>
+        <Last_name>Андреев</Last_name>
+        <Name>Андрей</Name>
+        <Phone_number>12312</Phone_number>
+        <Info>ваыаыв</Info>
+    </contact>
+    <contact>
+        <Last_name>Сергеев</Last_name>
+        <Name>Сергей</Name>
+        <Phone_number>342423</Phone_number>
+        <Info>выфвфы</Info>
+    </contact>
+    <contact>
+        <Last_name>Королев</Last_name>
+        <Name>Король</Name>
+        <Phone_number>543534</Phone_number>
+        <Info>аываыв</Info>
+    </contact>
+    <contact>
+        <Last_name>Петров</Last_name>
+        <Name>Петр</Name>
+        <Phone_number>34344</Phone_number>
+        <Info>вфыа</Info>
+    </contact>
+</contacts>
